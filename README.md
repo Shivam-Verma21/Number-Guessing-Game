@@ -4,3 +4,5 @@ A Simple number guessing game where the computer randomly selects a number and t
 In the end, you can choose whether to continue play or not.
 
 ## Project URL - https://roadmap.sh/projects/number-guessing-game
+
+## Make sure you have GCC installed. Then simply download the cpp file and run it. Good luck guessing the correct number 🍀
